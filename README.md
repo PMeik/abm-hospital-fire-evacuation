@@ -12,6 +12,10 @@ NetLogo 6.x
 - `Escenario_4.nlogox` — Escenario con dos salidas adicionales.
 - `Escenario_9.nlogox` — Escenario con salidas y puertas adicionales.
 - `Resultados_Escenarios.xlsx` — Resultados de las simulaciones.
+- `Resultados_Escenarios.xlsx` — Planilla con los resultados de las simulaciones. 
+  Contiene los resultados originales del paper en el que se basa este trabajo y, 
+  por separado, los resultados de nuestra implementación en NetLogo para cada 
+  escenario, con sus gráficos y desglosados por tipo de agente.
 
 ## Uso
 Abrir el `.nlogox` en NetLogo, presionar **setup** y luego **go**. 
